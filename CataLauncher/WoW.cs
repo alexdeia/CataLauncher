@@ -82,7 +82,7 @@ namespace CataLauncher
                 if (string.IsNullOrEmpty(Directory))
                     return null;
 
-                return Path.Combine(Directory, @"Data\enUS\realmlist.wtf");
+                return Path.Combine(Directory, @"Data\ruRU\realmlist.wtf");
             
             }
         }

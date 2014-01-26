@@ -1,0 +1,15 @@
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\bin\Debug\Launcher.exe.config
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\bin\Debug\Launcher.exe
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\bin\Debug\Launcher.pdb
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.CataButton.resources
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.Credits.resources
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.DownloadBar.resources
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.DownloadProgressBar.resources
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.MainForm.resources
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.MenuBar.resources
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.Properties.Resources.resources
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.SettingsForm.resources
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\CataLauncher.csproj.GenerateResource.Cache
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\Launcher.exe
+C:\Users\Алексей\Documents\GitHub\WoWLauncher\CataLauncher\obj\x86\Debug\Launcher.pdb
